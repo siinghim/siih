@@ -8,7 +8,7 @@
 ### Chemistty
 
 ### Linguistic
-- Data Markup, *Intelligent Voice in Hokkien*, [World Jinjiang Youth Association](http://www.wjjya.com/web/pc.html) & [XMU Speech Lab](https://speech.xmu.edu.cn/main.htm)
+- Data Markup, *Intelligent Voice in Hokkien*, [World Jinjiang Youth Association](http://www.wjjya.com/web/pc.html) & [XMU Speech Lab](https://speech.xmu.edu.cn/main.htm)  
   Marking the pronunciation of Hanzi in Hokkien dialect (Quanzhou) 
 
 ## Reasearch 

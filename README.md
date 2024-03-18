@@ -5,7 +5,7 @@
 - BS in Chemical Engineering and Technology, [Fujian Normal University](https://www.fjnu.edu.cn/english/main.htm), Sep 2017 - July 2021
 
 ## Work Experience
-### Chemistty
+### Chemistry
 
 ### Linguistic
 - Data Markup, *Intelligent Voice in Hokkien*, [World Jinjiang Youth Association](http://www.wjjya.com/web/pc.html) & [XMU Speech Lab](https://speech.xmu.edu.cn/main.htm)  

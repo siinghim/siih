@@ -1,7 +1,7 @@
 # Rongxin Shi (Si Ing Him)
 
 ## Education
-- PhD in Physical Chemistry, [Nanjing University](https://www.nju.edu.cn/), Sept 2024 - present
+- PhD in Physical Chemistry, [Nanjing University](https://www.nju.edu.cn/), Sept 2024 - Present
 - MSc in Physical Chemistry, [Xiamen University](https://en.xmu.edu.cn/main.htm), Sept 2021 - Jul 2024  
 - BS in Chemical Engineering and Technology, [Fujian Normal University](https://www.fjnu.edu.cn/english/main.htm), Sept 2017 - Jul 2021
 

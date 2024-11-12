@@ -5,8 +5,8 @@
 - MSc in Physical Chemistry, [Xiamen University](https://en.xmu.edu.cn/main.htm), Sept 2021 - Jul 2024  
 - BS in Chemical Engineering and Technology, [Fujian Normal University](https://www.fjnu.edu.cn/english/main.htm), Sept 2017 - Jul 2021
 
-## Reasearch 
-DFT calculation and machine learning in chemical reactions, catalysis reactions.
+## Reasearch Interest
+Atomistic simulations, DFT calculation and machine learning in chemical reactions, catalysis reactions.
 
 ## Work Experience
 ### Chemistry

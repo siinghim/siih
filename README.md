@@ -21,4 +21,5 @@ To make **work-life balance**
 - Linguistic： Hokkien
 
 ## Publication
-- in preparing!
+(1) Shi, R.; Zhang, L.; Ma, D.; Cao, Z. Elucidating the Degradation Mechanism of the Nerve Agent A-234 Using Various Detergents: A Theoretical Investigation. Phys. Chem. Chem. Phys. 2024, 26 (21), 15292–15300. https://doi.org/10.1039/D4CP00881B.
+
